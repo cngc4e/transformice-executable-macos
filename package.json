@@ -66,7 +66,7 @@
           ],
           "config": {
             "repository": {
-              "owner": "atelier801",
+              "owner": "cngc4e",
               "name": "transformice-executable-macos"
             },
             "prerelease": true
